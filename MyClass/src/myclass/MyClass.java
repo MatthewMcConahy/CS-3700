@@ -1,8 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+Matthew McConahy
+First Exam
+
+*/
 package myclass;
 
 
@@ -114,6 +114,8 @@ public class MyClass extends Weapons{
         
     }
 }
+
+// Class will allow different levels of damage, but it is not used 
  enum LifeState {
     healthy, damage, critical;
    
