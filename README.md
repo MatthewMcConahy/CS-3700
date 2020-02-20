@@ -1,5 +1,5 @@
-# CS-3701
+# CS-3701 Advance Object Oriented Programming
 # Languge: Java
 
-Projects are created from inclass work, exams and homework
-README will be provided for each of the projects and explaination of each project
+Projects are developed from in class assignments, tests, exams
+Comments will added at later date
